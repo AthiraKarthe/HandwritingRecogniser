@@ -7,3 +7,5 @@ This isolated part of the image is then segmented into sentences, sentences into
 Google translator has been a great piece of inspiration to this project. 
 ## Progress level
 I have progressed only the first part where the image is preprocessed and the part of the image that contains the text is isolated.
+## Future plans:
+Once this project is successfully completed. I intend to create a model by reversing the one above to create handwritten text from digital text. And that sounds fun;)
